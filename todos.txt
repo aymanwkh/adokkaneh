@@ -1,0 +1,9 @@
+add map
+delete pack from prices when deleting pack
+contact us
+modify unfolding
+
+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
+
+firebase deploy --only hosting:user
+git remote set-url origin https://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@github.com/aymankharouf/aedokkaneh.git
